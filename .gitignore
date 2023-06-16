@@ -1,3 +1,6 @@
-# ignored weights
+# ignored folders
 weights/RealESRGAN_x4plus_anime_6B.pth
 weights/RealESRGAN_x4plus.pth
+gfpgan/*
+
+# ignored folders

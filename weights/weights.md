@@ -1,6 +1,1 @@
-you can download weights from...
-https://github.com/xinntao/Real-ESRGAN/releases/
-
-general model
-anime model
-(0.3.0)
+you can learn and download model weights from [Real-ESRGAN/docs/model_zoo.md](https://github.com/xinntao/Real-ESRGAN/blob/master/docs/model_zoo.md)
