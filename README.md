@@ -1,13 +1,14 @@
 # Image Boost Model
 
-Image Boost aims at encapsulating the function of [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) with a simple function to facilitate the application of the model
+Image Boost aims at encapsulating the function of [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) with a simple Python file to facilitate the application of the model.
 
 ---
 
 ## Demos
 
 *Original Image Info:* 360 $\times$ 203, 15.7 KB
-*Oricessed Image Info:* 1440 $\times$ 812, 205.2 KB
+
+*Processed Image Info:* 1440 $\times$ 812, 205.2 KB
 <p align="center">
     <img src="assets/demo.jpg" width="700"/>
 </p>
