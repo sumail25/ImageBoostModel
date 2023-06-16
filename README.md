@@ -82,7 +82,8 @@ Usage: python image_boost.py -n RealESRGAN_x4plus -i input_file_or_folder -o out
 
 
 ### Misc
-Thanks again for [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+Thanks again for [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN).
+
 You can learn more from: **Paper: Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data**
 
 > [[Paper](https://arxiv.org/abs/2107.10833)] &emsp; [[YouTube Video](https://www.youtube.com/watch?v=fxHWoDSSvSc)] &emsp; [[B站讲解](https://www.bilibili.com/video/BV1H34y1m7sS/)] &emsp; [[Poster](https://xinntao.github.io/projects/RealESRGAN_src/RealESRGAN_poster.pdf)] &emsp; [[PPT slides](https://docs.google.com/presentation/d/1QtW6Iy8rm8rGLsJ0Ldti6kP-7Qyzy6XL/edit?usp=sharing&ouid=109799856763657548160&rtpof=true&sd=true)]
