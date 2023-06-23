@@ -15,7 +15,7 @@ Image Boost aims at encapsulating the function of [Real-ESRGAN](https://github.c
 
 ---
 
-## How To Use
+## How to Use
 
 #### Environment
 - Python >= 3.7
