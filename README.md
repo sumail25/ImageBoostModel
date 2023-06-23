@@ -1,6 +1,6 @@
 # Image Boost Model
 
-Image Boost aims at encapsulating the function of [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) with a simple Python file to facilitate the application of the model.
+Image Boost aims at encapsulating the function of [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) with a simple Python file to facilitate the application of the model, adds the support for *single channel image*.
 
 ---
 
